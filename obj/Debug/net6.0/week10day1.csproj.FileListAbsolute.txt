@@ -1,0 +1,15 @@
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/bin/Debug/net6.0/week10day1
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/bin/Debug/net6.0/week10day1.deps.json
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/bin/Debug/net6.0/week10day1.runtimeconfig.json
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/bin/Debug/net6.0/week10day1.dll
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/bin/Debug/net6.0/week10day1.pdb
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/obj/Debug/net6.0/week10day1.csproj.AssemblyReference.cache
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/obj/Debug/net6.0/week10day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/obj/Debug/net6.0/week10day1.AssemblyInfoInputs.cache
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/obj/Debug/net6.0/week10day1.AssemblyInfo.cs
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/obj/Debug/net6.0/week10day1.csproj.CoreCompileInputs.cache
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/obj/Debug/net6.0/week10day1.dll
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/obj/Debug/net6.0/refint/week10day1.dll
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/obj/Debug/net6.0/week10day1.pdb
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/obj/Debug/net6.0/week10day1.genruntimeconfig.cache
+/Users/jackhagen/source/codeworks/DailyWork/week10/week10day1/obj/Debug/net6.0/ref/week10day1.dll
